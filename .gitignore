@@ -4,6 +4,7 @@
 /web-app/WEB-INF
 
 # IDE support files
+/.link_to_grails*
 /.classpath
 /.launch
 /.project
@@ -38,6 +39,7 @@
 
 # "temporary" build files
 /target
+/target-eclipse
 
 # other
 *.iws
